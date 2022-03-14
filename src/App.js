@@ -8,7 +8,7 @@ import { nanoid } from "nanoid";
 function App(props) {
   return (
     <div className="todoapp stack-large">
-        Chào mọi người
+        Chào buổi chiều
     </div>
   );
 }
